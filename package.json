@@ -1,0 +1,31 @@
+{
+  "name": "restaurantpro",
+  "version": "1.0.0",
+  "description": "Creating RestProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YryskeldiCore/RestaurantPro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YryskeldiCore/RestaurantPro/issues"
+  },
+  "homepage": "https://github.com/YryskeldiCore/RestaurantPro#readme",
+  "devDependencies": {
+    "webpack": "^5.64.4"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "html-minifier": "^4.0.0",
+    "htmlmin": "0.0.7",
+    "webpack-stream": "^7.0.0"
+  }
+}
